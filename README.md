@@ -1,4 +1,6 @@
-# Test
+# Simple Calculator
+
+A simple calculator app as first steps into Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0-next.0.
 
